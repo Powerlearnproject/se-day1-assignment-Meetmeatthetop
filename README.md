@@ -6,6 +6,15 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering: This is the process of writting a set of instrustion to the computer to perform various task like automation, data analysis and more. This set of instructions can also be buldled together to create what we called application software which combines different field of sofware engineering together like frontend which is the part the user of the software interact with, backend the part that takes care of all the user activities and the database where all the user datas are stared of easy access and retrevals.
+
+Importance of Software engineering in the technology industry
+Software engineering is very important in this present day technogy industry because the world is evolving at a very speedy rate and technology is the one major contributing factor of this evolution so there a need for highly skilled software engineer to as to be able to keep up with the evolution that is moving in a fast pace. Here are few out of many iportance of software engineering in the technology industry:
+
+1. Innovtion: evolutions rely strongly on innovation hence the need for Software engieering is paramount in the technology because it birth new ideas which strongly impact and determine the future of the technology industry
+
+2. 
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
