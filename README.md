@@ -13,13 +13,22 @@ Software engineering is very important in this present day technogy industry bec
 
 1. Innovtion: evolutions rely strongly on innovation hence the need for Software engieering is paramount in the technology because it birth new ideas which strongly impact and determine the future of the technology industry
 
-2. Automation
+2. Automation: Software engineering helps in developing software that automate repetitive activities for instead of us having to repeat some task which aids so many precess in the tachnology sectors.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1. Development of programming laguage (Fortran, C) 
+2. Establishment of Software engineering as a discipline in 1960
+3. The advent of structure programming in 1970 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+1. Requirement / Research: Knowing what it will take to executes the project in terms of Finance, Technology to be use, man power etc.
+2. Design: After know the requirements, the product will be design based of the findings from the requirements / research. This stage include the product architecture, UI/UX etc
+3. Implementation: The design will be implement using the programming language of choice. This stage include coding, testing etc
+4. Testing: This is the stage where the product will be tested to ensure it meets the requirement
+5. Deployment: This is the stage where the product will be deployed to the customer
+6. Maintenance: This is the stage where the product will be maintained to ensure it continues to meet
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
