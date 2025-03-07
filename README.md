@@ -32,15 +32,32 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall methodology is software development methology whereby all the phases of oftware development are followed sequentially in a distictive manner from the first to the least,  while Agile method follows flexible approach to software development whereby the phases of software development are followed in a flexible manner and the customer is involve in the process of software development.
+
+Waterfall methology can be use in a scenerio where you client is very clear about what they want and how they want them to function in there product, while Agile methology can be use in a scenerio where the client is not very clear about what they.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+1. Software Developer: The are the one responsible for creating the funstional part of our software making sure they work as expected. They are also responsible for testing the software to ensure it meets the requirement.
+
+2. Quality Assurance Engineer: They are the one who make sure the sofware is of standard based on the client request and that the software function as expected and are free of bugs.
+
+3. Project Manager: They are the one who make sure the project is completed on time and within budget. They are also responsible for ensuring that the project is completed to the satisfaction of the client.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+1. Integrated Development Environments (IDEs): They are tools that helps software engineer in designing a highly functional software. They are also used to test the software to ensure it meets the requirement.
+
+2. Version Control Systems (VCS): They are tools that help engineer to keep tract of changes in project and they also foster collaboration in a seamless manner between developers team.
+
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+1. Meeting deadline
+2. Change in requirement
+3. Technical debt
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -50,6 +67,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
+Prompt Engineering is the way of talking to AI model in a very clear and concise manner that they can understand
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
